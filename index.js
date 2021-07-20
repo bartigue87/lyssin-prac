@@ -13,6 +13,5 @@ fetch('./people.json')
 
       div.classList.add('name');
       container.appendChild(div);
-      console.log(div.textContent);
     }
   });
